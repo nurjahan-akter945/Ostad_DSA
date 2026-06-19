@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script>
+
         // Function named countVowels , takes string , returns the number of vowels
         function countVowels (str){
             const vowels = ["a","e","i","o","u"]
@@ -72,6 +64,4 @@
         }
         console.log(removeNegativeNumbers([-5, -2, 1,5]))
 
-    </script>
-</body>
-</html>
+   
